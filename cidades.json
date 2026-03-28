@@ -1,0 +1,52 @@
+[
+    {
+        "cidade": "Oslo",
+        "pais": "Noruega",
+        "continente": "Europa",
+        "verao": 20.0,
+        "outono": 9.5,
+        "inverno": -3.8,
+        "primavera": 10.0,
+        "media": 8.9
+    },
+    {
+        "cidade": "Florianópolis",
+        "pais": "Brasil",
+        "continente": "América",
+        "verao": 28.5,
+        "outono": 22.2,
+        "inverno": 16.0,
+        "primavera": 21.0,
+        "media": 21.9
+    },
+    {
+        "cidade": "Moscou",
+        "pais": "Rússia",
+        "continente": "Europa",
+        "verao": 23.2,
+        "outono": 6.5,
+        "inverno": -9.2,
+        "primavera": 11.0,
+        "media": 7.9
+    },
+    {
+        "cidade": "Rio de Janeiro",
+        "pais": "Brasil",
+        "continente": "América",
+        "verao": 32.2,
+        "outono": 26.2,
+        "inverno": 19.8,
+        "primavera": 28.2,
+        "media": 26.6
+    },
+    {
+        "cidade": "Estocolmo",
+        "pais": "Suécia",
+        "continente": "Europa",
+        "verao": 20.2,
+        "outono": 6.4,
+        "inverno": -3.6,
+        "primavera": 8.9,
+        "media": 7.97
+    }
+]
